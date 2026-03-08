@@ -21,7 +21,7 @@ DTSTAMP:20260308T000000Z
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260311
 SUMMARY:🎒 PAL Lesson 7 - Picnic
-DESCRIPTION:Bring fruits, sun protection
+DESCRIPTION:Bring fruits (NO meat/fish), sunglasses, cap/hat, sunblock, tissue, wet wipes
 END:VEVENT
 
 BEGIN:VEVENT
