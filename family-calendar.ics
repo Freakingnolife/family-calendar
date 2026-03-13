@@ -18,8 +18,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-13-jiamu-orthopaedic
 DTSTAMP:20260313T023500Z
-DTSTART:20260313T143000+0800
-DTEND:20260313T153000+0800
+DTSTART;TZID=Asia/Singapore:20260313T143000
+DTEND;TZID=Asia/Singapore:20260313T153000
 SUMMARY:🏥 Jiamu骨科复诊
 DESCRIPTION:Dr. Tay Guan Tzu\nPinnacle Orthopaedic & Sports Centre\n38 Irrawaddy Road #04-26\nMount Elizabeth Novena Specialist Centre\n\n携带：NRIC、E-card、检查报告、药物
 LOCATION:Pinnacle Orthopaedic (Novena)
