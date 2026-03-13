@@ -283,4 +283,14 @@ DESCRIPTION:复诊检查恢复情况\nPinnacle Orthopaedic & Sports Centre\n38 I
 LOCATION:Pinnacle Orthopaedic (Novena)
 END:VEVENT
 
+BEGIN:VEVENT
+UID:2026-04-12-robofest
+DTSTAMP:20260313T110300Z
+DTSTART:20260412T100000+0800
+DTEND:20260412T180000+0800
+SUMMARY:🤖 RoboFest 2026 @ Science Centre
+DESCRIPTION:RoboFest 2026 @ Science Centre Singapore\n10am-6pm Full Day Entry\n2 Adult Tickets\nConfirmation Codes: GTJJFBBW, GT2RPCB1\n\nLocation: 15 Science Centre Road, Singapore 609081
+LOCATION:Science Centre Singapore
+END:VEVENT
+
 END:VCALENDAR
