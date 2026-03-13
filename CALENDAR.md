@@ -30,7 +30,7 @@
 - 2026-04-03 (Fri) — 🌳 耶稣受难日 — **MapleBear** 放假
 - 2026-04-04 (Sat) — 🌳 MapleBear 慈善活动
 - 2026-04-06 (Mon) — 🎒 **Jiamu 社区学习之旅** — Marine Parade (1H班) 9am-11:30am — 穿PE服，带SMART卡（充值$3）、水壶、雨伞、TNS蓝帽
-- 2026-04-12 (Sun) — 🤖 **RoboFest 2026 @ Science Centre** — 10am-6pm — 2张成人票 — 确认码: GTJJFBBW, GT2RPCB1
+- 2026-04-12 (Sun) — 🤖 **RoboFest 2026 @ Science Centre** — 10am-6pm — 2成人+2儿童 — 确认码: GTJJFBBW, GT2RPCB1 + 2儿童票
 - ~~2026-04-06 (Mon) — 🏸 羽毛球~~ ⏸️ **暂停**（Jiamu康复中）
 - ~~2026-04-13 (Mon) — 🏸 羽毛球~~ ⏸️ **暂停**（Jiamu康复中）
 - ~~2026-04-20 (Mon) — 🏸 羽毛球~~ ⏸️ **暂停**（Jiamu康复中）
