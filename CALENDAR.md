@@ -52,25 +52,33 @@
 
 ## Active Homework & Tasks
 
-### Current Week (Week of 3 Mar 2026)
+### Current Week (Week of 10 Mar 2026)
 
-**Fri 6 Mar — From Mdm Nura (p.47):**
-- [ ] **Koobits**: 2 new assignments — deadline **22 March 2026**
-- [ ] **Parent signature**: Free Writing Book — Class Writing Unit 3 (green file)
-- [x] Learn Spelling 5 (test Tue 11 Mar) ✅
+**Fri 13 Mar — From Mdm Nura:**
+- [ ] **EL Unit 3** - Corrections pages 9 & 10 (if any)
+- [ ] **EL Unit 4** - Complete pages 13, draw and colour favourite vehicle
+- [ ] **Parent signature**: EL Unit 3 (green file)
+- [ ] **P1 Shapes** (SLS revision) - can only do after 1:30pm today
+- [ ] **Keep Math and English Files at home for revision**
 
-**Mon 10 Mar — PAL Lesson 7:**
-- [x] Consent form submitted ✅
-- [ ] Prepare: fruits (NO meat/fish), sunglasses, cap/hat, sunblock, tissue, wet wipes
+**Ongoing:**
+- [ ] **Koobits**: 2 assignments — deadline **22 March 2026**
+- [ ] **MTL Fortnight** - Padlet Recording (link in SLS) — deadline **29 March**
+
+**Upcoming:**
+- [ ] Learn Spelling 1 (Term 2) — test **Wed 25 March 2026**
 
 ### Upcoming Deadlines
 
 | Date | Task |
 |------|------|
-| Mon 10 Mar | PAL Lesson 7 — Picnic prep (fruits, sunblock, hat, sunglasses, wipes) ✅ Consent form submitted |
-| Tue 11 Mar | **Spelling 5 TEST** |
+| Fri 13 Mar | **EL Unit 3** - Corrections pages 9 & 10 (if any) |
+| Fri 13 Mar | **EL Unit 4** - Complete pages 13, draw and colour favourite vehicle |
+| Fri 13 Mar | **Parent signature**: EL Unit 3 (green file) |
 | Sat 22 Mar | Koobits assignments due (2 new ones) |
-| Fri 6 Mar | Parent signature: Free Writing Book Unit 3 |
+| Sat 29 Mar | **MTL Fortnight** - Padlet Recording (link in SLS) |
+| Tue 31 Mar | **P1 Shapes** (SLS revision) - can only do after 1:30pm on 13 Mar |
+| Wed 25 Mar | **Spelling 1 TEST** (Term 2) |
 
 ---
 
