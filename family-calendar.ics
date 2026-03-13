@@ -272,4 +272,14 @@ SUMMARY:📝 MTL Fortnight截止
 DESCRIPTION:Padlet Recording截止日期，链接在SLS里。
 END:VEVENT
 
+BEGIN:VEVENT
+UID:2026-03-31-jiamu-followup-2
+DTSTAMP:20260313T074800Z
+DTSTART;TZID=Asia/Singapore:20260331T153000
+DTEND;TZID=Asia/Singapore:20260331T163000
+SUMMARY:🏥 Jiamu复诊
+DESCRIPTION:复诊检查恢复情况\nPinnacle Orthopaedic & Sports Centre\n38 Irrawaddy Road #04-26\nMount Elizabeth Novena Specialist Centre
+LOCATION:Pinnacle Orthopaedic (Novena)
+END:VEVENT
+
 END:VCALENDAR

@@ -88,6 +88,7 @@
 | Sat 22 Mar | Koobits assignments due (2 new ones) |
 | Sat 29 Mar | **MTL Fortnight** - Padlet Recording (link in SLS) |
 | Tue 31 Mar | **P1 Shapes** (SLS revision) - can only do after 1:30pm on 13 Mar |
+| Mon 31 Mar | 🏥 **Jiamu复诊** - 3:30pm @ Pinnacle Orthopaedic (Novena) |
 | Wed 25 Mar | **Spelling 1 TEST** (Term 2) |
 
 ---
