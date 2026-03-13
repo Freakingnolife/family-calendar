@@ -8,7 +8,7 @@
 
 ### March
 - 2026-03-06 (Fri) — ~~🅰️ Staff Training — In:Genius CLOSED~~ **POSTPONED** — Centre open as usual 10am–7pm
-- 2026-03-09 (Mon) — 🏥 **Jiamu受伤** — 骨裂，打石膏3-5天，6周不能运动 ⏸️ 暂停所有体育活动
+- 2026-03-09 (Mon) — 🏥 **Jiamu受伤** — 韧带损伤（非骨折），打石膏3-5天，6周不能运动 ⏸️ 暂停所有体育活动
 - 2026-03-09 (Mon) — 💍 **结婚纪念日** — Dinner reservation needed
 - 2026-03-13 (Fri) — 🏥 **Jiamu骨科复诊** — 2:30pm @ Pinnacle Orthopaedic (Novena) — Dr. Tay Guan Tzu
 - 2026-03-14/16 (Sat/Mon) — 🏥 **Jiamu复查拆石膏** — 看医生确认恢复情况
@@ -18,7 +18,7 @@
   - **去程航班:** AK1720, 3月18日 11:45 SGT (樟宜T4) → 13:00 (槟城)
   - **返程航班:** AK1729, 3月21日 18:55 (槟城) → 20:20 SGT (樟宜T4)
   - **预订参考号:** HBERKM / DF8IWQ
-- 2026-03-20 (Fri) — 🅰️ 开斋节前夕 — **In:Genius** 2点放学
+- 2026-03-20 (Fri) — 🅰️ 开斋节前夕 — **In:Genius** 2点放学 ⚠️ 提前接孩子
 - 2026-03-21 (Sat) — 🌳 开斋节 — **MapleBear** 放假
 - ~~2026-03-21 (Sat) — 🏸 羽毛球抽签~~ ⏸️ **暂停**（Jiamu受伤）
 - 2026-03-23 (Mon) — 🅰️ 开斋节补假 — **In:Genius** 放假
