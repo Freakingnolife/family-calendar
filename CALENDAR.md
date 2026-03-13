@@ -54,12 +54,22 @@
 
 ### Current Week (Week of 10 Mar 2026)
 
-**Fri 13 Mar — From Mdm Nura:**
+**Fri 13 Mar — From Mdm Nura (English):**
 - [ ] **EL Unit 3** - Corrections pages 9 & 10 (if any)
 - [ ] **EL Unit 4** - Complete pages 13, draw and colour favourite vehicle
 - [ ] **Parent signature**: EL Unit 3 (green file)
 - [ ] **P1 Shapes** (SLS revision) - can only do after 1:30pm today
 - [ ] **Keep Math and English Files at home for revision**
+
+**Fri 13 Mar — From 沈老师 (Chinese):**
+- [ ] **练习一** - 完成并家长签名
+- [ ] **华文文件夹** - 已带回家，开学后带回学校
+- [ ] **ezhishi 练习** - 假期期间完成剩余练习（登录信息贴在学生手册）
+
+**ezhishi 华文学习平台：**
+- 登录信息：贴在学生手册（1位同学贴在1A课本）
+- 使用方式：iPad/手机APP或网站
+- 任务：完成剩余练习
 
 **Ongoing:**
 - [ ] **Koobits**: 2 assignments — deadline **22 March 2026**
